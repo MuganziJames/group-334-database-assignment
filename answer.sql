@@ -1,3 +1,5 @@
+use my_database;
+
 CREATE TABLE brand (
     id INT PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(100) NOT NULL,
