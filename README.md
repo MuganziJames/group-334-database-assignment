@@ -46,3 +46,15 @@ The ERD below outlines the structure of our e-commerce database:
    ```bash
    git clone https://github.com/MuganziJames/group-334-database-assignment.git
    ```
+
+## 🤝 Contributors
+
+- **James Muganzi**
+- **Tebogo Ranuga**
+- **Joram Kombo**
+- **Derrick Olewe**
+- **Esther Wanjiku**
+- **Samuel Oluoch**
+- **Isaac Kabelo**
+- **Victor Ayanwale**
+- **Velmar Atieno**
